@@ -38,14 +38,6 @@ An interactive, automated dashboard that provides a consolidated view of key sal
 - Visualization Design  
 - Business Intelligence Reporting
 
-## Dashboard Preview
-
-*Include a screenshot of the dashboard here*
-
-## Dataset
-
-This project uses simulated sales data, structured to mimic real-world business scenarios for dashboard development and analytical insights.
-
 ## Contact
 
 If you'd like to connect or explore more of my work:
